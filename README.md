@@ -4,7 +4,7 @@ A privacy-first smart contract system that empowers individuals to control acces
 
 ---
  
-## 📌 What is This?
+## 📌 What is This? 
 
 This smart contract enables a **decentralized and transparent consent system** for DNA or genomic data access.
 
