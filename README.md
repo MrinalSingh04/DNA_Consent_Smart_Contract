@@ -8,7 +8,7 @@ A privacy-first smart contract system that empowers individuals to control acces
 
 This smart contract enables a **decentralized and transparent consent system** for DNA or genomic data access.
 
-### Key Features:
+### Key Features: 
 
 - 👤 **User-controlled consent**: Only the data owner can grant or revoke access to their DNA information.
 - 🧪 **Researchers request access**: Researchers submit access requests, but can't access data unless explicitly approved.
