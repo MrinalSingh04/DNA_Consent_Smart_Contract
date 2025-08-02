@@ -44,7 +44,7 @@ contract DNAConsent {
         }
     }
 
-    // Check if researcher has access
+    // Check if researcher has an access
     function hasAccess(
         address user,
         address researcher
