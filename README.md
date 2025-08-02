@@ -2,7 +2,7 @@
 
 A privacy-first smart contract system that empowers individuals to control access to their DNA data for research, healthcare, and genomic studies.
 
----
+--- 
  
 ## 📌 What is This? 
 
