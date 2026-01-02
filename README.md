@@ -14,7 +14,7 @@ This smart contract enables a **decentralized and transparent consent system** f
 - 🧪 **Researchers request access**: Researchers submit access requests, but can't access data unless explicitly approved.
 - 🔒 **Immutable access logs**: All events (requests, approvals, revocations) are logged on-chain.
 - 📚 **Transparent collaboration**: Ideal for ethical genomic research, ancestry tools, and biotech platforms.
-
+ 
 ---
 
 ## 🧠 Why This Matters
